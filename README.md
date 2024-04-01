@@ -1,6 +1,6 @@
 # A-Two-Dimensional-Feature-Engineering-Method-for-Entity-Relation-Extraction
 
-A Two Dimensional Feature Engineering Method for Entity Relation Extraction
+A Two Dimensional Feature Engineering Method for Entity Relation Extraction (T4RE)
 
 Comming soon!
 
